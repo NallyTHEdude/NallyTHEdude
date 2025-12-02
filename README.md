@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hey there 👋
 
-<!--
-**NallyTHEdude/NallyTHEdude** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m Nawaz, a full-stack dev from India who loves turning random ideas into things that actually work.
+If something sparks my curiosity, I’ll probably prototype it and tweak it before I realize I skipped lunch.
 
-Here are some ideas to get you started:
+I mostly work with JavaScript, Python, React, Node.js, and whatever else helps me build fast. Lately, I’ve been exploring the AI side of full-stack development — LangChain, LangGraph, vector databases, and all the fun stuff that makes apps feel smarter.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I’ve built all kinds of projects: AI bots, resume tools, dashboards, tiny experiments that solve oddly specific problems, and mini 10 minute games that happen because I opened Godot “just to check something.”
+
+You can find my favorite work in my pinned repos — they show exactly what I enjoy building.
+
+### Fun Facts:
+
+* I read a lot (personality development, fiction, finance, whatever keeps me hooked)
+* I play skill-based games and usually take the hardest route for no reason
+* I enjoy building small projects just to see what’s possible
+* I make small games in Godot whenever inspiration hits
