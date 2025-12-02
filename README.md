@@ -1,4 +1,4 @@
-# Read Me 😉
+# **READ* About **Me** 😉
 
 I’m [Nawaz](https://www.youtube.com/watch?v=dQw4w9WgXcQ), a full-stack dev from India who loves turning random ideas into things that actually work.
 If something sparks my curiosity, I’ll probably prototype it and tweak it before I realize I skipped lunch.
