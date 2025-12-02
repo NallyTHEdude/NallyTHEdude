@@ -17,4 +17,4 @@ You can find my favorite work in my pinned repos — they show exactly what I en
 * I make small games in Godot whenever inspiration hits
 * I randomly search for new wallpapers (please dont ask why)
 
-Wanna reach out? Sure, why not: [here's my mail](rifaqatnawaz25@gmail.com)
+Wanna reach out? Sure, why not: [here's my mail](mailto:rifaqatnawaz25@gmail.com)
