@@ -1,6 +1,6 @@
 # **READ-ME** 😉
 
-I’m [Nawaz](https://www.youtube.com/watch?v=dQw4w9WgXcQ), a full-stack dev from India who loves turning random ideas into things that actually work.
+I’m Nawaz, a full-stack dev from India who loves turning random ideas into things that actually work.
 If something sparks my curiosity, I’ll probably prototype it and tweak it before I realize I skipped lunch.
 
 I mostly work with JavaScript, Python, React, Node.js, and whatever else helps me build fast. Lately, I’ve been exploring the AI side of full-stack development — LangChain, LangGraph, vector databases, and all the fun stuff that makes apps feel smarter and a little more alive.
